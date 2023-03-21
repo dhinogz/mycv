@@ -1,0 +1,44 @@
+.work-experience-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  h3 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 40px;
+    color: #333;
+  }
+  
+  ul {
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 20px;
+  }
+  
+  tr {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  td {
+    padding: 10px;
+  }
+  
+  h4 {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #333;
+  }
+  
+  .logro {
+    margin-left: 20px;
+    font-size: 1.2em;
+    color: #333;
+  }
+  
